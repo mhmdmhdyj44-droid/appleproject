@@ -45,7 +45,7 @@ section>a#learncta:hover{
 }
 
 section>a#shopcta {
-background-color: #fff;
+background-color: transparent;
 border: .5px solid #006edb;
 color: #006edb;
 }
